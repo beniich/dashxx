@@ -1,0 +1,6 @@
+{
+    "installCommand": "npx pnpm@9.0.0 install --no-frozen-lockfile",
+    "buildCommand": "npx pnpm@9.0.0 build",
+    "framework": null,
+    "outputDirectory": "apps/admin-dashboard/dist"
+}
