@@ -1,0 +1,11 @@
+{
+    "name": "@cloud-industrie/config",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Shared configurations (ESLint, TypeScript, Tailwind)",
+    "files": [
+        "eslint.config.js",
+        "tsconfig.json",
+        "tailwind.config.js"
+    ]
+}
